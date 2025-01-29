@@ -100,7 +100,7 @@ Tato část popisuje, jak spustit automatizované testy pro webové stránky pom
 
 ---
 
-### TestSada_FE-024 - Stáhnout aplikaci Moje dm
+### TestSada_FE-024 - Stáhnout aplikaci
 - `TestCase_FE-145` – Kontrola viditelnosti tlačítek
 - `TestCase_FE-146` – Kontrola funkčnosti tlačítek (přesměrování)
 
