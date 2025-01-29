@@ -1,6 +1,5 @@
 ## Testování pomocí Selenium
-
-Tato část popisuje, jak spustit automatizované testy pro webové stránky pomocí Selenium. Testy jsou napsány v jazyce Python a používají Selenium WebDriver pro automatizaci prohlížeče.
+Testy jsou napsány v jazyce Python a používají Selenium WebDriver pro automatizaci prohlížeče.
 
 ## Testovací Sady
 ---
